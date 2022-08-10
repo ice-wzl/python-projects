@@ -24,6 +24,7 @@ ship_col = random_col(board)
 #print ship_col
 
 #for loop to let the game play for 4 rounds, change as needed
+print "I wish I knew hot to organize my code like a sane person"
 for turn in range(4):
   print "Turn", turn + 1
 #user to guess the row and col 
