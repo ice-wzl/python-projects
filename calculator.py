@@ -45,8 +45,3 @@ if __name__ == '__main__':
     clear_button.grid(row=4, column=2, sticky='ew')
 
     window.mainloop()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
