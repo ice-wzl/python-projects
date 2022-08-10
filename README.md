@@ -10,3 +10,5 @@ Make your game a two-player game.
 
 Use functions to allow your game to have more features like rematches, statistics and more!
 ````
+## Calculator
+- Fairly straight forward
