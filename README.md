@@ -18,3 +18,6 @@ Use functions to allow your game to have more features like rematches, statistic
 
 ## Bank Account
 - Object Oriented Bank account that allows for deposit and withdrawl of funds 
+
+## RGB Converter 
+- Calculator that can convert RGB values to Hexadecimal (hex) values, and vice-versa.
