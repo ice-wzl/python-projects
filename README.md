@@ -12,3 +12,9 @@ Use functions to allow your game to have more features like rematches, statistic
 ````
 ## Calculator
 - Fairly straight forward
+
+## Calendar 
+- Calendar that allows for viewing, addition, modification, and deletion of events
+
+## Bank Account
+- Object Oriented Bank account that allows for deposit and withdrawl of funds 
